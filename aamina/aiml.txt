@@ -3,5 +3,5 @@ public class hello
   public static void main[Str args]
 }
 {
-   System.out.println("Hiiiii");
+   System.out.println("Heyyyyyyyyyy");
 }
